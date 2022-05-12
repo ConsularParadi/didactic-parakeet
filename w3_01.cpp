@@ -44,10 +44,10 @@ type VariableName;*/
 
 const int myNum = 15;
 //myNum will always be 15
-myNum = 10 
+myNum = 10; 
 // error assignment of read-only variable myNum
 
 
-cin>>x 
+cin>>x;
 // Take user input
 
